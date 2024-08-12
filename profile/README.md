@@ -1,4 +1,4 @@
-## Welcom to Eleven Spectacles GitHub space 👋
+## Welcome to Eleven Spectacles GitHub space 👋
 
 <!--
 
